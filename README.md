@@ -1,2 +1,2 @@
 # Wav-works
-Sound-related app. For fun (or not). Exciting topicactually
+Sound-related app. For fun (or not). Exciting topic actually
