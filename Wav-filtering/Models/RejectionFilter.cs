@@ -54,6 +54,7 @@ namespace Wav_filtering.Models
             }
             while (read > 0);
 
+            throw new NotImplementedException();
         }
 
 

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wav-filtering", "Wav-filtering\Wav-filtering.csproj", "{15668423-18EB-4D23-8502-CDC38C53F8D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioWorks.UI.WinForm", "Wav-filtering\AudioWorks.UI.WinForm.csproj", "{15668423-18EB-4D23-8502-CDC38C53F8D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
